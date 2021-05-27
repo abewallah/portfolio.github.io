@@ -250,6 +250,21 @@
               </div>
             </a>
           </div>
+          <div class="col-lg-4 col-sm-6">
+            <a
+              class="portfolio-box"
+              href="./assets/img/portfolio/fullsize/XpenseTracker2.png"
+            >
+              <img
+                src="./assets/img/portfolio/thumbnails/XpenseTracker1.png"
+                alt=""
+              />
+              <div class="portfolio-box-caption">
+                <div class="project-category text-white-50">Category</div>
+                <div class="project-name">Xpense Tracker</div>
+              </div>
+            </a>
+          </div>
         </div>
       </div>
     </div>
@@ -274,6 +289,9 @@
           href="https://project-4-react-side-wayferer.herokuapp.com/"
           >Wayferer Website</a
         >
+        <a class="mr-4" href="https://xpense-tracker-app.herokuapp.com/"
+          >Xpense Tracker Website</a
+        >
       </div>
       <div class="container text-center-text-black">
         <a class="mr-4" href="https://project-chat-linxs.herokuapp.com"
@@ -295,6 +313,9 @@
         <a
           href="https://git.generalassemb.ly/abewallah/Finch-collector-lab-views/tree/master/cardcollector"
           >Card Collector Repo</a
+        >
+        <a href="https://github.com/abewallah/ExpenseTracker"
+          >Xpense Tracker Repo</a
         >
       </div>
     </section>
