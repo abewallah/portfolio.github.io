@@ -253,10 +253,10 @@
           <div class="col-lg-4 col-sm-6">
             <a
               class="portfolio-box"
-              href="./assets/img/portfolio/fullsize/XpenseTracker2.png"
+              href="./assets/img/portfolio/fullsize/XpenseTracker2.jpg"
             >
               <img
-                src="./assets/img/portfolio/thumbnails/XpenseTracker1.png"
+                src="./assets/img/portfolio/thumbnails/XpenseTracker1.jpg"
                 alt=""
               />
               <div class="portfolio-box-caption">
